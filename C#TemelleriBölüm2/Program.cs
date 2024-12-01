@@ -12,3 +12,5 @@ int AlanHesaplamaMetod(int kısakenar, int uzunkenar)
 
 int alansonucu = AlanHesaplamaMetod(kısakenarinput, uzunkenarinput);
 Console.WriteLine($"Alanın hesap sonucu :{alansonucu}");
+
+Console.ReadLine();

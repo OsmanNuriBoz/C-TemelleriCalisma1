@@ -24,3 +24,5 @@ Console.WriteLine($"Girilen sayının çarpımı : {sayılarıncarpımısonucu}"
 
 string ısımbırlesımısonucu = ısımbırlestırmemetod(bırıncıısım, ıkıncıısım);
 Console.WriteLine($"Girilen ismin birleşimi : {ısımbırlesımısonucu}");
+
+Console.ReadLine();
