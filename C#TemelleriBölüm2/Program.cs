@@ -4,7 +4,7 @@ int kısakenarinput  = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Uzun kenarı giriniz :");
 int uzunkenarinput = Convert.ToInt32(Console.ReadLine());
 
-int AlanHesaplamaMetod(int kısakenar , int uzunkenar)
+int AlanHesaplamaMetod(int kısakenar, int uzunkenar)
 {
     int alan = kısakenar * uzunkenar;
     return alan;
